@@ -1,5 +1,7 @@
 # Lineal
 42cm
 
-I created a board, that had known issues
-![Image 1]((https://github.com/theBrutzler/Lineal/Lineal/BUG.png))
+I created a board, that had known issues need 100k Ohm offset resistor
+![Image 1](./Lineal/BUG.png)
+
+![Image 2](./Lineal/Prev.png)
